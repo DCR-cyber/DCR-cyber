@@ -13,8 +13,15 @@ Currently a 4th-semester student at TH Ingolstadt.
 **Current Focus:**  
 Mastering Data Analytics (Python, SQL, Power BI) via an Udemy bootcamp.
 
-**Key Project:**  
-Web-Tech-Practical – a full-stack PHP/JavaScript e-commerce platform.
+**Key Projects:**
+
+- ✅ **Web-Tech-Practical** – Full-stack PHP/JavaScript e-commerce platform  
+  🔗 https://github.com/Southik/Web-Tech-Practical  
+  ✔ Completed
+
+- 🚧 **L-As-Nutrition** – Ongoing project focused on nutrition/food-related system development  
+  🔗 https://github.com/DCR-cyber/L-As-Nutrition  
+  🔄 In progress
 
 **Technical Edge:**  
 Strong mathematical background applied to AI optimization and software design (UML).
